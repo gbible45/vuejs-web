@@ -1,0 +1,11 @@
+#loginbox {
+  width: 350px; }
+  #loginbox .el-input {
+    width: 300px; }
+  #loginbox div.login_btn_div {
+    width: 300px; }
+    #loginbox div.login_btn_div .el-button {
+      padding-right: 20px;
+      float: right; }
+
+/*# sourceMappingURL=style.css.map */
